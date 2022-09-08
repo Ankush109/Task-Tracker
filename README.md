@@ -45,34 +45,17 @@ Start the Client
 
 # Features
 
-### Authenticaton
+### ABOUT
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/loginpage.jpeg)
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/signuppage.jpeg)
+![](https://github.com/Ankush109/Task-Tracker/blob/main/src/pictures/t1.jpeg)
 
-### Real Time Chatting with Typing indicators
+### ADD TASK WINDOW
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/typing.jpeg)
+![](https://github.com/Ankush109/Task-Tracker/blob/main/src/pictures/t2.jpeg)
 
-### One to One chat
+### Home page
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/homepage.jpeg)
-
-### Search Users
-
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/searchusers.jpeg)
-
-### Create Group Chats
-
-### Notifications
-
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/notification.jpeg)
-
-### Add or Remove users from group
-
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/grou%3Bp.jpeg)
-
-### View Other user Profile
+![](https://github.com/Ankush109/Task-Tracker/blob/main/src/pictures/t3.jpeg)
 
 ## Made By
 
